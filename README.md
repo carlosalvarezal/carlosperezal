@@ -1,4 +1,4 @@
-Hello !! Sou Carlos Perez Alvarez
+Hello !! Sou Carlos Jose Perez Alvarez
 
 Nacionalidade: Espanhola e Brasileira
 
@@ -8,5 +8,5 @@ Formação: Comercio Exterior.
 
 Hoje Trabalho como Tecnico de Hardware e Redes.
 
-Atualmente Cursando: HTML E CSS, GIT E GITHUB, JavaScript ..
+Cursando: HTML E CSS, GIT E GITHUB, JavaScript ..
 
