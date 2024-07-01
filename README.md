@@ -5,9 +5,9 @@
 # 🚀 Olá, eu sou Carlos Perez Alvarez
 ## Resido em Brasil, tenha dupla nacionalidade, Idiomas: Espanhol e Portugues ( Nativo), Formado em Comercio Exterior.
 
-✨ Sou um(a) desenvolvedor(a) apaixonado(a) por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
+✨ Sou Tecnico Informatico ( hardware e Redes) apaixonado por novos desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar. 
 
-## Habilidades Tecnológicas
+## Formação em Curso: Engenheiro de Programação ( ONE - Oracle Next Education - Oracle ).
 
 💻 Aqui estão algumas das tecnologias que eu domino:
 
