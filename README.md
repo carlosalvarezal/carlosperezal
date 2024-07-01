@@ -34,7 +34,7 @@
 
 ## Vamos Conectar!
 
-[![Linkedln](https://img.shields.io/badge/-{Nome}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
+[![Linkedln](https://img.shields.io/badge/-{Linkedln}-purple?style=flat-square&logo=Instagram&logoColor=white&link={})]({www.linkedin.com/in/carlos-jose-perez-alvarez-53babb301})
 [![Gmail](https://img.shields.io/badge/-{Nome}-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})]({Link})
 
 ![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26\&rank_icon=percentile)
