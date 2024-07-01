@@ -2,7 +2,7 @@ Hello !! Sou Carlos Perez Alvarez
 
 Nacionalidade: Espanhola e Brasileira
 
-Idiomas: Espanol, Portugues, Ingles Tecnico.
+Idiomas: Espanhol, Portugues, Ingles Tecnico.
 
 Formação: Comercio Exterior.
 
