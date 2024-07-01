@@ -9,7 +9,7 @@
 
 ## Formação em Curso: Engenheiro de Programação ( ONE - Oracle Next Education - Oracle ).
 
-💻 Aqui estão algumas das tecnologias que eu domino:
+💻 Aqui estão algumas das tecnologias que estou cursando atualmente:
 
 -  Linguagens de Programação: 
 
@@ -26,13 +26,7 @@
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev) 
-## Projetos Criativos
 
-🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
-
-1. [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição emocionante do projeto e como ele mudou o mundo.
-2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma aventura fascinante com código e arte.
-3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma experiência interativa que desafia as leis da física.
 
 ## Vamos Criar Algo Incrível! 💫
 
